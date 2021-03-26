@@ -11,6 +11,9 @@ syntax (order) about how these data should be sorted, this syntax along with Ins
 There is a field called “summer“ if the user wants to double the lectures and tutorials using the same database by entering 1 in this field, also there is an instruction file for the users in case of difficulties.
 
 
+![alt text](https://github.com/FadyTawfeek/Bachelor_graduation_project_2019/blob/master/class_schedule.PNG)
+![alt text](https://github.com/FadyTawfeek/Bachelor_graduation_project_2019/blob/master/class_schedule_summer_mode.PNG)
+
 Main idea for the final exams table:
 
 Next we have the finals exams table, we took into consideration that no conflicts happen of course and in our credit hours department we
@@ -19,3 +22,5 @@ assumed to start 1/1/2020 . If there will be any holidays after the start day of
 the user could enter its date, we assumed maximum of 3 exceptions, in which case the program skips these days in the schedule and
 updates the dates of exams accordingly.
 The dates are accurate even if the exams start and continue in different years (for example starting in December and ending in January).
+
+![alt text](https://github.com/FadyTawfeek/Bachelor_graduation_project_2019/blob/master/exams.PNG)
