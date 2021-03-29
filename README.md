@@ -1,4 +1,4 @@
-# My Bachelor's Graduation project 2019, implementing in Java the class schedule as well as the final exams table with no conflicts for my department in Helwan University Faculty of Engineering, to make this process easier instead of being done manual before.
+# My Bachelor's Graduation project 2019, implementing in Java the class schedule as well as the final exams table with no conflicts for my department in Helwan University Faculty of Engineering, to make this process easier instead of being done manually before.
 
 Main idea for the class schedule:
 
