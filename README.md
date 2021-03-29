@@ -1,4 +1,4 @@
-# Graduation project 2019
+# My Bachelor's Graduation project 2019, implementing in Java the class schedule as well as the final exams table with no conflicts for my department in Helwan University Faculty of Engineering, to make this process easier instead of being done manual before.
 
 Main idea for the class schedule:
 
@@ -14,6 +14,7 @@ There is a field called “summer“ if the user wants to double the lectures an
 ![alt text](https://github.com/FadyTawfeek/Bachelor_graduation_project_2019/blob/master/class_schedule.PNG)
 ![alt text](https://github.com/FadyTawfeek/Bachelor_graduation_project_2019/blob/master/class_schedule_summer_mode.PNG)
 
+
 Main idea for the final exams table:
 
 Next we have the finals exams table, we took into consideration that no conflicts happen of course and in our credit hours department we
@@ -23,4 +24,6 @@ the user could enter its date, we assumed maximum of 3 exceptions, in which case
 updates the dates of exams accordingly.
 The dates are accurate even if the exams start and continue in different years (for example starting in December and ending in January).
 
+
 ![alt text](https://github.com/FadyTawfeek/Bachelor_graduation_project_2019/blob/master/exams.PNG)
+
